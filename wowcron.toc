@@ -1,8 +1,8 @@
 ## Title: WoWCron
 ## Interface: 100107
-## Notes: Cron for WoW. (thing)
+## Notes: Cron for WoW. (0.10)
 ## Author: opussf
-## Version: thing
+## Version: 0.10
 ## Description: Cron for WoW
 ## IconTexture: Interface\Icons\Spell_holy_borrowedtime
 ## SavedVariables: cron_global at_global cron_groups cron_knownSlashCmds cron_knownEmotes
